@@ -608,6 +608,7 @@ ul, ol {
 .page-top-section {
 	padding: 0 40px;
 }
+
 .page-top-warp {
 	height: 500px;
 	display: flex;
@@ -619,6 +620,9 @@ ul, ol {
 	font-weight: 600;
 	color: #fff;
 	margin-bottom: 15px;
+}
+#motto{
+	color: #fff;
 }
 @media only screen and (min-width: 768px) and (max-width: 991px), only screen and (min-width: 576px) and (max-width: 767px) {
 	.page-top-warp h2 {
